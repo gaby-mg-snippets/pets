@@ -26,8 +26,9 @@
 
 ##### Prices
 
-| Establishment | Date       | Weight | Price  | Price/gram |
-| Gattos        | 2024-07-10 | 400 g  | 7,90 € | 0,01975 €  |
+| Establishment | Date       | Weight | Price  | Price/gram | Price/Kg |
+| Gattos        | 2024-07-10 | 400 g  | 7.90€  | 0.01975€   |  19,75€  |
+| Chelsea       | 2024-07-19 | 2000 g | 25.90€ | 0,01295€   |  12,95€  |
 
 #### Glossary
 
